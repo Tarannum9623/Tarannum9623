@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @Tarannum9623
-- 👀 I’m interested in coding, web and app development, quantum computing...
-- 🌱 I’m currently learning Django, React
-- 💞️ I’m currently woking on SWC Event Scheduler project.
 - 📫 You can reach me at tarannum9623@gmail.com
 
 <!---
